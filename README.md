@@ -1,7 +1,7 @@
 <h1 align=center>Unix</h1>
 <h3>Unix shell/environment progammation.</h3>
 
-<p float="left">
+<p align=center float="left">
     <a href="https://fr.wikipedia.org/wiki/Unix"><img src="https://www.lifewire.com/thmb/24KHN5twdvxBmwpV18RAXMGvPkg=/688x453/filters:fill(auto,1)/Unix_Logo-57b92e993df78c87631675c6.gif" height="200" width="auto"></a>
  </p>
 
